@@ -5,7 +5,7 @@ import sys
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 hostServer = 'ip_server'
-port = 'port_server'
+port = port_server
 s.bind((hostServer, port))
 print('Socket-port: '+ str(port))
 s.listen(3)
