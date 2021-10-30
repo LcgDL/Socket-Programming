@@ -10,16 +10,16 @@ comentary: simple socket script, to send one message at a time: client -> server
 
 command: python3
 
-comentary: simple socket script, to send many message: client -> server
+comentary: simple socket script, to send many messages: client -> server
 
 + client_3.py and server_3.p
 
 command: python3
 
-comentary: simple socket script, to send many message: client <-> server
+comentary: simple socket script, to send many messages: client <-> server
 
 + client_4a.py, client_4b.py and server_4.py
 
 command: python3
 
-comentary: UDP simple Socket. Implementing threads to send many message: C1 <-> S <-> C2
+comentary: UDP simple Socket. Implementing threads to send many messages: C1 <-> S <-> C2
