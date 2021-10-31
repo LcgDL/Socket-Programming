@@ -1,4 +1,4 @@
-import socket, threading,os
+import socket, threading
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind(('',port))
