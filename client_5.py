@@ -1,4 +1,4 @@
-import socket, threading, sys,os
+import socket, threading,os
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect(('ip_server',port))
