@@ -23,3 +23,9 @@ comentary: simple socket script, to send many messages: client <-> server
 command: python3
 
 comentary: UDP simple Socket. Implementing threads to send many messages: C1 <-> S <-> C2
+
++ client_5.py and server_5.py
+
+command: python3
+
+comentary: TCP simple Chat Room. Implementing threads to send many messages: C1 <-> S <-> C2
